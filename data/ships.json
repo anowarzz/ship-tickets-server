@@ -4,7 +4,8 @@
      "title": "Orely Ship K400",
      "price": "430/h",
      "image":"https://images.unsplash.com/photo-1605735604084-4414571643d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGFzc2VuZ2VyJTIwc2hpcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-     "speed": "50km/h"
+     "speed": "50km/h",
+     "seatsImg": "https://i.ibb.co/n08GsRs/boat-sits-pic.png"
 
 
     },
@@ -14,7 +15,8 @@
      "title": "Amazing Grace",
      "price": "600/h",
      "image":"https://images.pexels.com/photos/127160/pexels-photo-127160.jpeg?auto=compress&cs=tinysrgb&w=600",
-     "speed": "60km/h"
+     "speed": "60km/h",
+     "seatsImg": "https://i.ibb.co/n08GsRs/boat-sits-pic.png"
 
     },
 
@@ -23,7 +25,8 @@
      "title": "Blue Miracle",
      "price": "730/h",
      "image":"https://images.pexels.com/photos/4353816/pexels-photo-4353816.jpeg?auto=compress&cs=tinysrgb&w=600",
-     "speed": "45km/h"
+     "speed": "45km/h",
+     "seatsImg": "https://i.ibb.co/n08GsRs/boat-sits-pic.png"
 
     }
 ]
